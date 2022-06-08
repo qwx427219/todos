@@ -1,25 +1,2 @@
-# todos
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# todos
+# 先执行 npm install 下载好项目依赖的第三包
+# 在执行 npm run serve 启动Vue项目
